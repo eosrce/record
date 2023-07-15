@@ -1,2 +1,1 @@
-# record.eosrce.github.io
-https://record.eosrce.icu
+# record.eosrce.icu
